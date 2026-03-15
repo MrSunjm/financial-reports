@@ -60,7 +60,7 @@ class AutoDailyReport:
             access_info = {
                 "report_name": report_name,
                 "local_path": str(html_path),
-                "github_url": f"https://linghucong001.github.io/financial-reports/reports/{html_filename}",
+                "github_url": f"https://MrSunjm.github.io/financial-reports/reports/{html_filename}",
                 "file_size": os.path.getsize(html_path),
                 "timestamp": datetime.now().isoformat()
             }
@@ -184,7 +184,7 @@ class AutoDailyReport:
                 
                 <div class="url-box">
                     <strong>GitHub Pages URL:</strong><br>
-                    https://linghucong001.github.io/financial-reports/reports/{report_name}.html
+                    https://MrSunjm.github.io/financial-reports/reports/{report_name}.html
                 </div>
                 
                 <div class="url-box">
@@ -386,7 +386,7 @@ def main():
         print(f"   错误: {result['error']}")
     
     print("\n📅 下次执行: 每日08:00（北京时间）")
-    print("🌐 报告库: https://linghucong001.github.io/financial-reports/")
+    print("🌐 报告库: https://MrSunjm.github.io/financial-reports/")
 
 if __name__ == "__main__":
     main()
