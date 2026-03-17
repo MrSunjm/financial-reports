@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2026-03-16T21:31:44.451619",
+    "beijing_time": "2026-03-16 21:31:44",
+    "report_file": "reports/complete_financial_analysis_20260316_213144.html",
+    "summary": {
+      "total_coins_analyzed": 6,
+      "buy_signals": 1,
+      "hold_signals": 1,
+      "watch_signals": 4,
+      "average_confidence": 75.5,
+      "market_sentiment": "乐观",
+      "sentiment_color": "#2ecc71",
+      "key_findings": [
+        "国际宏观环境改善，美联储政策支持风险资产",
+        "加密货币市场整体乐观，机构资金持续流入",
+        "技术面显示多数币种处于上涨趋势",
+        "需关注地缘政治风险和监管动态",
+        "BTC价格$73,860.00，24h变化+5.83%",
+        "XRP价格$1.51，24h变化-1.87%"
+      ],
+      "recommendation": "逢低布局优质币种，控制仓位，设置止损，关注国际新闻动态"
+    },
+    "key_findings": [
+      "国际宏观环境改善，美联储政策支持风险资产",
+      "加密货币市场整体乐观，机构资金持续流入",
+      "技术面显示多数币种处于上涨趋势",
+      "需关注地缘政治风险和监管动态",
+      "BTC价格$73,860.00，24h变化+5.83%",
+      "XRP价格$1.51，24h变化-1.87%"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T21:31:44.489055",
+    "beijing_time": "2026-03-16 21:31:44",
+    "report_file": "reports/complete_financial_analysis_20260316_213144.html",
+    "summary": {
+      "total_coins_analyzed": 6,
+      "buy_signals": 0,
+      "hold_signals": 3,
+      "watch_signals": 3,
+      "average_confidence": 75.0,
+      "market_sentiment": "乐观",
+      "sentiment_color": "#2ecc71",
+      "key_findings": [
+        "国际宏观环境改善，美联储政策支持风险资产",
+        "加密货币市场整体乐观，机构资金持续流入",
+        "技术面显示多数币种处于上涨趋势",
+        "需关注地缘政治风险和监管动态",
+        "BTC价格$73,860.00，24h变化-1.73%",
+        "XRP价格$1.51，24h变化+1.07%"
+      ],
+      "recommendation": "逢低布局优质币种，控制仓位，设置止损，关注国际新闻动态"
+    },
+    "key_findings": [
+      "国际宏观环境改善，美联储政策支持风险资产",
+      "加密货币市场整体乐观，机构资金持续流入",
+      "技术面显示多数币种处于上涨趋势",
+      "需关注地缘政治风险和监管动态",
+      "BTC价格$73,860.00，24h变化-1.73%",
+      "XRP价格$1.51，24h变化+1.07%"
+    ]
+  }
+]
